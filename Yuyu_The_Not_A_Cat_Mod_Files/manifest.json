@@ -37,18 +37,11 @@
                 ],
                 "HOVER":
                 [
-                    "sound/Dink.m4a",
-		    "sound/Donk.m4a",
-                    "sound/Dink_1.m4a",
-		    "sound/Donk_1.m4a",
-                    "sound/Dink_2.m4a",
-		    "sound/Donk_2.m4a",
-		    "sound/Dink_3.m4a"
+		    "sound/panting.mp3"
                 ],
                 "HOVER_UP":
                 [
-                    "sound/panting.mp3"
-		    
+                    "sound/Dink_3a.m4a"    
                 ],
                 "IMPORTANT_CLICK":
                 [
